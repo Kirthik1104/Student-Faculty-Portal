@@ -1,4 +1,4 @@
-# E-Learning-Portal
+# Student Faculty Portal
 My work using MEAN stack AngularJS
 E-learning-portal Portal Using Node JS,Express,Mongo DB and Angular JS.
 

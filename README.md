@@ -1,6 +1,8 @@
 # Student Faculty Portal
 •	Developed a mobile application to connect people in colleges and universities based on skills and interests.
+
 •	Implemented a recommendation system, automated chatbots, and real-time data storage using Dart, Firestore, and Flutterflow.
+
 •	Published a paper at the International Journal for Research in Applied Science and Engineering Technology (IJRASET).
 
 <h2>Implementation</h2>

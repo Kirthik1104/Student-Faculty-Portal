@@ -1,14 +1,27 @@
 # Student Faculty Portal
-My work using MEAN stack AngularJS
-E-learning-portal Portal Using Node JS,Express,Mongo DB and Angular JS.
+•	Developed a mobile application to connect people in colleges and universities based on skills and interests.
+•	Implemented a recommendation system, automated chatbots, and real-time data storage using Dart, Firestore, and Flutterflow.
+•	Published a paper at the International Journal for Research in Applied Science and Engineering Technology (IJRASET).
 
+<h2>Implementation</h2>
 Created login / register page
 
-Registration page have the following fields a. Username b. Password c. Email d. Location e. Phone number f. User type i. Admin ii. Student
+Registration page have the following fields 
+a. Username 
+b. Password 
+c. Email 
+d. Location 
+e. Phone number 
+f. User type 
+i. Admin 
+ii. Student
 
 After login / registration user should land on home page.
 
-Home page have following links a. Post a course b. Search courses c. logout
+Home page have following links
+ a. Post a course
+ b. Search courses
+ c. logout
 
 Depending on the user type the menu should toggle between
 
